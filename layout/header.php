@@ -25,16 +25,16 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="#">Home</a>
+          <a class="nav-link" aria-current="page" href="index.php">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="header.php">header</a>
+          <a class="nav-link" href="exercise1.php">exercise1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="index.php">text</a>
+          <a class="nav-link" href="aboutus.php">about us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="footer.php">footer</a>
+          <a class="nav-link" href="contactus.php">contact us</a>
         </li>
         
       </ul>
@@ -51,4 +51,4 @@
       <h3>List of Tasks</h3>
       some thing here
     </div>
- 
+    <div class="col-sm-9">
