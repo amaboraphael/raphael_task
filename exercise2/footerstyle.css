@@ -1,0 +1,8 @@
+.footer-box{
+    background-color: #ffde00;
+    color: #141516;
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 0px 0 0px;
+
+}
