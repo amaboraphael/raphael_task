@@ -50,4 +50,7 @@ echo "
 </table>
 ";
 ?>
+
+<h3>4.0 screenshot that verifies, you have set up the development environment</h3>
+<img src="working environment.png" alt="working environment">
 <?php include "footer.php"?>
