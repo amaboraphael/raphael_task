@@ -7,7 +7,7 @@
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2020 Copyright
   </div>
-  <div>
+  <div class=" footer-date text-center">
     <?php
     $name=$_SERVER['PHP_SELF'];
     $filename = basename($name);
