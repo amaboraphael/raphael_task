@@ -7,6 +7,13 @@
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2020 Copyright
   </div>
+  <div>
+    <?php
+    $name=$_SERVER['PHP_SELF'];
+    $filename = basename($name);
+    echo "Last modified on: " . date("F d Y H:i:s." , fileatime($filename))
+    ?>
+  </div>
   <!-- Copyright -->
 
 </footer></div>
