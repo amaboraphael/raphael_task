@@ -24,20 +24,27 @@
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+
         <li class="nav-item">
           <a class="nav-link" aria-current="page" href="index.php">Home</a>
         </li>
+
         <li class="nav-item">
           <a class="nav-link" href="exercise1.php">exercise1</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="variable.php">exercise3</a>
+          <a class="nav-link" href="exercise2.php">exercise2</a>
         </li>
 
         <li class="nav-item">
+          <a class="nav-link" href="variable.php">exercise3</a>
+        </li>
+        
+        <li class="nav-item">
           <a class="nav-link" href="aboutus.php">about us</a>
         </li>
+
         <li class="nav-item">
           <a class="nav-link" href="contactus.php">contact us</a>
         </li>
