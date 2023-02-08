@@ -6,9 +6,6 @@ $dob = $_POST['bdate'];
 $color = $_POST['color'];
 echo "<h3> Your name is $fname $lname";
 
-
-
-
 ?>
 
 <?php include "footer.php"?>
