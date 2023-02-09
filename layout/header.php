@@ -40,6 +40,10 @@
         <li class="nav-item">
           <a class="nav-link" href="variable.php">exercise3</a>
         </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="controlflow.php">exercise5</a>
+        </li>
         
         <li class="nav-item">
           <a class="nav-link" href="aboutus.php">about us</a>
