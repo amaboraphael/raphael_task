@@ -25,8 +25,13 @@
         </div>
 
         <div class="col-md-4" style="text-align: right;">
-          <a class="btn btn-danger" href="about.html" role="button" style="vertical-align: middle ;"> <b>About us</b></a>
+          <a class="btn btn-danger" href="aboutus.php" role="button"><b>About us</b></a>
           <a class="btn btn-danger" href="exercise2.php" role="button">exercise 1</a>
-          <a class="btn btn-danger" href="https://www.hamk.fi/" role="button" style="vertical-align: middle ;"> <b>Make Reservation</b></a>
-          <a class="home" href="index.html"><img class="home" src="images/home.png" alt="home button"> </a>
+          <a class="btn btn-danger" href="" role="button">Make Reservation</b></a>
+          <a class="home" href="index.php"><img class="home" src="images/home.png" alt="home button"> </a>
+          <a class="btn btn-danger" href="contactus.php" role="button">contactus</a>
+          <a class="btn btn-danger" href="variable.php" role="button">variable</a>
+          <a class="btn btn-danger" href="controlflow.php" role="button">controlflow</a>
+          <a class="btn btn-danger" href="retrieve.php" role="button">retrieve</a>
+          <a class="btn btn-danger" href="updatesingle.php" role="button">updatesingle</a>
         </div>

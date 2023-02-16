@@ -52,6 +52,14 @@
         <li class="nav-item">
           <a class="nav-link" href="contactus.php">contact us</a>
         </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="retrieve.php">retrieve </a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" href="updatesingle.php">update</a>
+        </li>
         
       </ul>
       <form class="d-flex" role="search">
