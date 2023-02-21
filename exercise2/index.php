@@ -1,5 +1,6 @@
 <?php include "header.php"?>
-    <h1>My simple php script</h1>
+    <div class="wrapper" style= "margin-top: 10px; margin-bottom: 10px; margin-right: 5px; max-width:90%;">
+        <h2>My simple php script</h2>
     <h3>3.1 Write a simple PHP script to print your information (Name and your groupid)</h3>
 <?php
 
@@ -46,5 +47,10 @@ echo "
 ?>
 
 <h3>4.0 screenshot that verifies, you have set up the development environment</h3>
-<img src="workenv.png"alt="working environment">
+<img src="workenv1.jpg"alt="working environment">
+</div>
+
+
+
 <?php include "footer.php"?>
+

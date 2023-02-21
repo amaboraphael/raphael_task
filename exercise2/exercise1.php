@@ -1,4 +1,5 @@
 <?php include "header.php"?>
+<div class="wrapper">
     <h1>My simple php script</h1>
     <h3>3.1 Write a simple PHP script to print your information (Name and your groupid)</h3>
 <?php
@@ -47,4 +48,6 @@ echo "
 
 <h3>4.0 screenshot that verifies, you have set up the development environment</h3>
 <img src="workenv.png"alt="working environment">
+</div>
 <?php include "footer.php"?>
+

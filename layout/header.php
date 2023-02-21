@@ -12,6 +12,8 @@
     color: white;
 }
     </style>
+
+    <script src ="/raphael_task/javascript/site.js"> </script>>
 </head>
 <body>
   <div class="container" >

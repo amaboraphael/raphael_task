@@ -1,7 +1,7 @@
 <?php include "header.php" ?>
 <h3></h3>
 
-<h2>Create a simple html form to get Firstname and Lastname from the user and use echo echo statement to print using <h3> tag : Hello …., You are welcome to my site</h2>
+<h4>Create a simple html form to get Firstname and Lastname from the user and use echo echo statement to print using</h4> <h4> tag : Hello …., You are welcome to my site</h4>
 
 <form action="action.php" method="post">
     <div class="row">
