@@ -13,7 +13,7 @@
 }
     </style>
 
-    <script src ="/raphael_task/javascript/site.js"> </script>>
+    <script src ="../layout/site.js"> </script>>
 </head>
 <body>
   <div class="container" >
