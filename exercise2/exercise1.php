@@ -12,8 +12,22 @@ echo "BBCAP22 "
  <h3>3.2.1 Write PHP code to display the following message.</h3>
 <?php 
 echo "Hello world! My name is \"David\""
-
 ?>
+<hr>
+<script>
+document.write("Hello world this is javascript");
+</script>
+
+<noscript>
+Please enable javascript to view this content,
+</noscript>
+
+<input type="button" onclick="hello()" value="Click me">
+<h3>3.4 Variable in php. 
+</h3>
+
+<hr>
+
 <h3>3.3 Write the PHP code in to display the current date. </h3>
 <?php  echo date("d.m.Y") ?>
 <h3>3.4 Variable in php. 

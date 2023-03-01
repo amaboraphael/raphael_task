@@ -7,20 +7,16 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">    
-<style>
-  a, .nav-link,.navbar-brand {
-    color: white;
-}
-    </style>
+
 
     <script src ="../layout/site.js"> </script>>
 </head>
 <body>
   <div class="container" >
     <div class="row">
-  <nav class="navbar navbar-expand-lg" style="background-color: rgb(65, 7, 109);" >
+  <nav class="navbar navbar-expand-lg" style="background-color: rgb(65, 7, 109)" >
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Raphael</a>
+    <a class="navbar-brand"style="color: white;" href="#">Raphael</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -28,39 +24,43 @@
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
 
         <li class="nav-item">
-          <a class="nav-link" aria-current="page" href="index.php">Home</a>
+          <a class="nav-link"style="color: white;" aria-current="page" href="index.php">Home</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="exercise1.php">exercise1</a>
+          <a class="nav-link" style="color: white;" href="exercise1.php">exercise1</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="exercise2.php">exercise2</a>
+          <a class="nav-link" style="color: white;" href="exercise2.php">exercise2 </a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="variable.php">exercise3</a>
+          <a class="nav-link"style="color: white;"href="variable.php">exercise3</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="controlflow.php">exercise5</a>
+          <a class="nav-link"style="color: white;" href="controlflow.php">exercise5</a>
         </li>
         
         <li class="nav-item">
-          <a class="nav-link" href="aboutus.php">about us</a>
+          <a class="nav-link"style="color: white;" href="aboutus.php">about us</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="contactus.php">contact us</a>
+          <a class="nav-link"style="color: white;" href="Contact.php">Contact us</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="retrieve.php">retrieve </a>
+          <a class="nav-link"style="color: white;" href="../crude1/retrieve.php">retrieve </a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" href="updatesingle.php">update</a>
+          <a class="nav-link" style="color: white;"href="../crude1/updatesingle.php">update</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" style="color: white;" href="jsinclass.php">JS exercise</a>
         </li>
         
       </ul>

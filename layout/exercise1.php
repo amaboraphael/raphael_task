@@ -3,6 +3,7 @@
     <h3>3.1 Write a simple PHP script to print your information (Name and your groupid)</h3>
 <?php
 
+
 echo "Amabo Raphael Chenwi";
 echo "<br>";
 echo "BBCAP22 "
@@ -33,8 +34,8 @@ Please enable javascript to view this content,
 echo "<h1>".$title."<h1>" ?>
 <script>
 //window.alert
-window.alert(this will trigger an alert box);
-window.alert(5+10);
+//window.alert("this will trigger an alert box");
+//window.alert(5+10);
 document.write
 document.write("Hello this is interesting");
 
@@ -48,7 +49,7 @@ document.write("Hello this is interesting");
 
 <script>
 document.getElementById("place1").innerHTML ="This will go to page1"
-document.getElementById("place2").innerHTML="This will go to span"
+document.getElementById("place2").innerHTML=add()
 </script>    
 
 <?php
@@ -79,6 +80,6 @@ echo "
 
 <h2>changing the background-color</h2>
 <form>
-<input type="color" name="background" onchange="changeColor('background,this.value')">
+<input type="color" id="background" onchange="changeColor()">
 </form>
 <?php include "footer.php"?>
