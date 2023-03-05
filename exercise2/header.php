@@ -8,7 +8,7 @@
    
 
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Encode+Sans:wght@400;700&display=swap" rel="stylesheet">
-    <script src ="../layout/site.js"> </script>>
+    <script src ="sitetwo.js"> </script>>
 
     <div class="row">
         <div class="col-md-1">
@@ -27,8 +27,8 @@
           <a class="btn btn-danger" href="contactus.php" role="button" style="vertical-align: middle ;"> <b>contactus</b></a>
           <a class="btn btn-danger" href="variable.php" role="button" style="vertical-align: middle ;"> <b>variable</b></a>
           <a class="btn btn-danger" href="controlflow.php" role="button" style="vertical-align: middle ;"> <b>controlflow</b></a>
-          <a class="btn btn-danger" href="../crude1/retrieve.php" role="button" style="vertical-align: middle ;"> <b>retrieve</b></a>
-          <a class="btn btn-danger" href="../crude1/updatesingle.php" role="button" style="vertical-align: middle ;"> <b>updatesingle</b></a>
+          <a class="btn btn-danger" href="orderretrieve.php" role="button" style="vertical-align: middle ;"> <b>retrieve</b></a>
+          <a class="btn btn-danger" href="updatedata.php" role="button" style="vertical-align: middle ;"> <b>updatedata</b></a>
         <a class="home" href="index.php" role="button" style="vertical-align: middle ;"><img class="home" src="images/home.png" alt="home button" > </a>
         </div>
 

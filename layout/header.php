@@ -44,11 +44,11 @@
         </li>
         
         <li class="nav-item">
-          <a class="nav-link"style="color: white;" href="aboutus.php">about us</a>
+          <a class="nav-link"style="color: white;" href="../layout/aboutus.php">about us</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link"style="color: white;" href="Contact.php">Contact us</a>
+          <a class="nav-link"style="color: white;" href="../layout/Contact.php">Contact us</a>
         </li>
 
         <li class="nav-item">
@@ -56,11 +56,16 @@
         </li>
 
         <li class="nav-item">
+          <a class="nav-link"style="color: white;" href="../crude1/create.php">create </a>
+        </li>
+
+
+        <li class="nav-item">
           <a class="nav-link" style="color: white;"href="../crude1/updatesingle.php">update</a>
         </li>
 
         <li class="nav-item">
-          <a class="nav-link" style="color: white;" href="jsinclass.php">JS exercise</a>
+          <a class="nav-link" style="color: white;" href="../layout/jsinclass.php">JS exercise</a>
         </li>
         
       </ul>

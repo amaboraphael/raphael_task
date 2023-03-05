@@ -7,7 +7,7 @@ $result = $conn ->query($sql);
 if($result->num_rows > 0){
 echo"
 <table class='table'>
-<tr><th>ID</th><th>First Name</th><th>Last Name</th><th>email</th><th>home address</th><th>name</th><th>state</th><th>zip</th><th>number</th><th>orderid</th><th>customerid</th></tr>";
+<tr><th>ID</th><th>First Name</th><th>Last Name</th><th>email</th><th>home address</th><th>name</th><th>state</th><th>zip</th><th>number</th><th>orderid</th></tr>";
 while($row=$result ->fetch_assoc()){
 echo"<tr>
 <td><a href='updatesingle.php?id=$row[id]'>$row[id]</a></td>
@@ -20,9 +20,10 @@ echo"<tr>
 <td>$row[zip]</td>
 <td>$row[number]</td>
 <td>$row[orderid]</td>
-<td>$row[customerid]</td>
+
 
 </tr>";
+//<td>$row[customerid]</td>
 }
 echo "</table>";
 

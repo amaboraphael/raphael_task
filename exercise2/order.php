@@ -1,4 +1,4 @@
-<?php include "header.php" ?>
+<?php include 'header.php' ?>
 
 <head>
   
@@ -7,7 +7,7 @@
 
 <div class="container">
 
-<form method="POST" action="">
+<form method="POST" action="" onsubmit="return crud2test(),crud3test()" name=payform>
 
 
 <div class="row1">
@@ -16,7 +16,7 @@
         <h3 class="title">Billing Information</h3>
         <div class="inputBox">
             <span> First Name :</span>
-            <input type="text" name="fname" placeholder="Raphael ">
+            <input type="text" name="fname" placeholder="Raphael " required>
         </div>
 
         <div class="inputBox">
@@ -113,6 +113,15 @@
     </div>
     </div>
     </div>
+</form>
+    <span onmouseover="this.style.color='blue';
+this.style.backgroundColor='yellow';
+this.style.fontSize = '2em';"
+
+onmouseout="this.style.color='red';
+this.style.backgroundColor='green';
+this.style.fontSize = '2em';"
+> Thanks for the purchase. Enjoy your meal </span>
 
     <?php 
     if (isset($_POST['submit'])){
@@ -141,4 +150,4 @@
     }
     ?>
 
-<?php include "footer.php" ?>
+<?php include 'footer.php'?>
